@@ -1,0 +1,8 @@
+requests==2.32.3
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging==24.1
+folium==0.17.0
+psycopg2-binary==2.9.9
+web3==7.2.0
+tkintermapview==1.29
