@@ -115,7 +115,7 @@ The dapp should now be hosted on http://localhost:8545. You can now interact wit
   
 ## Transactions
 
-Transactions on the dTrips app are made using a token called **RideCoinSfu**. These transactions are securely stored on Cartesi servers, which provide a scalable and efficient solution for managing the application's transactional data.
+Transactions on the dTrips app are made using a token called **RideCoin**. These transactions are securely stored on Cartesi servers, which provide a scalable and efficient solution for managing the application's transactional data.
 
 ## Usage
 Watch this video for a step-by-step demonstration of how to use dTrips:
